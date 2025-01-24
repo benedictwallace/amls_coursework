@@ -1,6 +1,11 @@
 
 This file collection contains everything necessary to run and train models for the BloodMNIST and BreastMNIST datasets.
 
+My Git repo was not allowing me to upload some .pth files, I panicked and acidently deleted the whole repo and created a new one. 
+If there is a way to find the old commits and comments please let me know, I'm not that familiar with git but I had loadds of comits before accidently deleting them
+I was stupid to follow ChatGPTs solutions to my git problems.
+
+
 The layout is as follows:
 
 /A/ 
